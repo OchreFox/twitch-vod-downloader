@@ -1,0 +1,9 @@
+.dccache
+*.mp4
+*.json
+*.log
+
+temp/
+__pycache__/
+ffmpeg-custom/
+TwitchDownloader/
